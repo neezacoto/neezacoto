@@ -14,8 +14,9 @@ record data on a Rest API.
 data.
 - Cooperating with team members to divide tasks, help debug code, meet deadlines, and have fun.
 - Learning the ins-and-out of a MERN stack application while improving team leadership.
-Responsible for developing UI tools for patient table:  
+I was responsible for implementing the UI for a patient table and it's tools. This is what I built:
 ![report](https://cdn.discordapp.com/attachments/150452553681862656/948801211019165736/covid-19_reporting_app.gif)
+Backend team provided me with data that I worked off of. After I was finished, my functions made it easy for the backend to connect events to the database.
 
 ## Project Favorites:
 ### Loggit!
