@@ -8,7 +8,7 @@
 - 😄Pronouns: He/Him
 ## Currently Working on:
 ### Covid-Reporting App
-#### Hack.Diversity Team Project
+##### -Hack.Diversity Team Project
 Project: https://github.com/neezacoto/2022-Covid19-Mini-Project
 - Working in a team of 8 to develop a MERN Stack application that can filter, sort, and manipulate a patient
 record data on a Rest API.
@@ -22,7 +22,7 @@ Backend team provided me with data that I worked off of. After I was finished, m
 
 ## Project Favorites:
 ### Loggit!
-#### Freshman Web Development Open Final Project
+##### -Freshman Web Development Open Final Project
 Presentation: https://www.youtube.com/watch?v=tSqRuyeU3XU | 
 Project: https://github.com/neezacoto/LoggitBotnWebsite
 - Coding a Discord bot that allows friends to log their minutes studied using a Discord integrated bot, with a
