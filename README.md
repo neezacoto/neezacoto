@@ -8,6 +8,7 @@
 - 😄Pronouns: He/Him
 ## Currently Working on:
 ### Covid-Reporting App
+Project: https://github.com/neezacoto/2022-Covid19-Mini-Project
 - Working in a team of 8 to develop a MERN Stack application that can filter, sort, and manipulate a patient
 record data on a Rest API.
 - Building a professionally designed responsive UI that allows intuitive use of viewing and manipulating
