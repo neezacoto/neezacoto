@@ -1,7 +1,11 @@
 ### Here is what I'm all about! 👋
 
 - 🎓I'm currently learning at MassBay Community College
-- 📚Pround Phi Theta Kappa Member
+- 📚Pround Phi Theta Kappa member
+- 🔍Coding is a puzzle that never gets old
+- 🌤️Always bringing a positive attitude wherever I go
+- 🎨Ask me about art
+- 😄Pronouns: He/Him
 ## Currently Working on:
 ### Covid-Reporting App
 -Working in a team of 8 to develop a MERN Stack application that can filter, sort, and manipulate a patient
