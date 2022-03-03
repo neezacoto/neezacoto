@@ -28,6 +28,6 @@ Project: https://github.com/neezacoto/LoggitBotnWebsite
 - Coding a Discord bot that allows friends to log their minutes studied using a Discord integrated bot, with a
 responsive clean website view; all complete with leaderboards and fun tools.
 - Utilizing SQL, HTML/CSS, Javascript, Discord.js library, Discord’s API, and other fun APIs.
-![loggit](https://cdn.discordapp.com/attachments/835258180648829010/948795328251961416/loggit_collage.png)
+![loggit](https://cdn.discordapp.com/attachments/835258180648829010/948933171272101968/loggit_collage.png)
 
 
