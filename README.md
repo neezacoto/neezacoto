@@ -21,6 +21,7 @@ Backend team provided me with data that I worked off of. After I was finished, m
 ## Project Favorites:
 ### Loggit!
 Presentation: https://www.youtube.com/watch?v=tSqRuyeU3XU
+Project: https://github.com/neezacoto/LoggitBotnWebsite
 - Coding a Discord bot that allows friends to log their minutes studied using a Discord integrated bot, with a
 responsive clean website view; all complete with leaderboards and fun tools.
 - Utilizing SQL, HTML/CSS, Javascript, Discord.js library, Discord’s API, and other fun APIs.
