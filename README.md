@@ -1,7 +1,7 @@
 ### Here is what I'm all about! 👋
 
 - 🎓I'm currently learning at MassBay Community College
-- 📚Pround Phi Theta Kappa member
+- 📚Proud Phi Theta Kappa member
 - 🔍Coding is a puzzle that never gets old
 - 🌤️Always bringing a positive attitude wherever I go
 - 🎨Ask me about art
