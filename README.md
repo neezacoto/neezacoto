@@ -29,6 +29,7 @@ Learning Takeaways:
 - Learning the ins-and-out of a MERN stack. application while improving team leadership.
 - Improving my work-flow and problem solving skills.
 
+😄 Never knew coding with a team could be so much fun! I was responsible for implementing the UI for a patient table and its tools. Now all that's left is for the backend team to hook it up, which should be plug-and-play with the code I've set up~
 ![report](https://cdn.discordapp.com/attachments/150452553681862656/948801211019165736/covid-19_reporting_app.gif)
 Backend team provided me with data that I worked off of. After I was finished, my functions made it easy for the backend to connect events to the database.
 
@@ -57,7 +58,6 @@ Key Design/Visual Elements:
 - Eye-catching CSS that allows for an interactive and intuitive use of the application. Everything must be easy to see and easy to use. 
 - Using a group of people to test and get feedback on the overall feel and usability of the application.
 
-😄 Never knew coding with a team could be so much fun! I was responsible for implementing the UI for a patient table and its tools. Now all that's left is for the backend team to hook it up, which should be plug-and-play with the code I've set up~
 ![loggit](https://cdn.discordapp.com/attachments/835258180648829010/948933171272101968/loggit_collage.png)
 
 
