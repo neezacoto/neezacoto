@@ -56,7 +56,8 @@ Key Design/Visual Elements:
 - Designing a mascot & website theme that speaks to the mission of LOGGIT!, in a minimalist appealing way.
 - Eye-catching CSS that allows for an interactive and intuitive use of the application. Everything must be easy to see and easy to use. 
 - Using a group of people to test and get feedback on the overall feel and usability of the application.
- 
+
+😄 Never knew coding with a team could be so much fun! I was responsible for implementing the UI for a patient table and its tools. Now all that's left is for the backend team to hook it up, which should be plug-and-play with the code I've set up~
 ![loggit](https://cdn.discordapp.com/attachments/835258180648829010/948933171272101968/loggit_collage.png)
 
 
