@@ -8,16 +8,16 @@
 - 🎨Ask me about art
 - 💻check me out on [LinkedIn](https://www.linkedin.com/in/crudder-ma/)!
 ## Currently Working on:
-### crub-hub:
+### Portfolio Website:
 #### Building out my first personal website
-Project: https://github.com/neezacoto/crub-hub
+Project: https://github.com/neezacoto/portfolio-website
 
 Goals:
 - Showcase past web projects
-- Showcase personal art
-- Show what I'm all about
-- Have a built in JavaScript IDE
-- Themes along a Darkmode option
+- Show who I am
+- easy contact information
+
+Keep up with [my twitter](https://twitter.com/crubber_) for more updates!
 
 ## Project Favorites:
 ### Loggit!
