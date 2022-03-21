@@ -7,5 +7,5 @@
 - 🌤️Always bringing a positive attitude wherever I go
 - 🎨Ask me about art
 - 💻Learn more about me on my [Website](https://www.christianrudder.me/)!
-
+- 🐦See where I'm at on my [coding journey](https://twitter.com/crubber_)
 
