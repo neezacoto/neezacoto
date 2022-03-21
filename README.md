@@ -6,7 +6,7 @@
 - 🔍Coding is a puzzle that never gets old
 - 🌤️Always bringing a positive attitude wherever I go
 - 🎨Ask me about art
-- 💻check me out on [LinkedIn](https://www.linkedin.com/in/crudder-ma/)!
+- 💻Learn more about me on my [Website](https://www.christianrudder.me/)!
 ## Currently Working on:
 ### Portfolio Website:
 #### Building out my first personal website
